@@ -3,7 +3,7 @@
 
 ## [Todos-list](https://todos-list-gg.netlify.app/)
 
-### I  have made this using react hooks.This app i made to show what i learn in react and use this app in daily use. 
+### I have made this using react hooks.This app is made to show what I learnt in react and you can use this app in daily use. 
 
 
 -----
