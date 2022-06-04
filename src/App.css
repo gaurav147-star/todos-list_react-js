@@ -98,12 +98,12 @@ h1 {
   position: relative;
 }
 
-.fab{
+.fab {
   color: white;
   transform: translateY(-65px);
   margin-left: 6px;
 }
-.github{
+.github {
   width: 0;
   height: 0;
   border-top: 70px solid rgb(0, 0, 0);
@@ -159,8 +159,18 @@ h1 {
   .todo-input {
     width: 95%;
   }
-  .todo-button{
+  .todo-button {
     border-radius: 15px;
     margin-top: 5px;
   }
+}
+
+.notodostitle {
+  color: white;
+}
+
+.notodosImg{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }
